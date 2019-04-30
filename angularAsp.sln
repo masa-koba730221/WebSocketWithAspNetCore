@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "angularAsp", "angularAsp.csproj", "{AC2E0995-19E0-487C-9E4E-BD2A9B117A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2E0995-19E0-487C-9E4E-BD2A9B117A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2E0995-19E0-487C-9E4E-BD2A9B117A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2E0995-19E0-487C-9E4E-BD2A9B117A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2E0995-19E0-487C-9E4E-BD2A9B117A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
